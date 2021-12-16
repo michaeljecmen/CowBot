@@ -1,4 +1,4 @@
-package test.java;
+package net.peacefulcraft.cowbot.translation;
 
 import net.peacefulcraft.cowbot.translation.DiscordToMinecraftFormattingTranslator;
 
@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import java.util.List;
 import java.util.Stack;
 
 public class TestDiscordToMinecraftFormattingTranslator {
